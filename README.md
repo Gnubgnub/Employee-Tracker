@@ -6,6 +6,8 @@ Developers frequently have to create interfaces that allow non-developers to eas
 
 Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
+Video Link: https://drive.google.com/file/d/12Be05W3KE9d50M-iRKgJwqC-L_w3WL02/view
+
 ## User Story
 
 ```md
